@@ -86,7 +86,7 @@ footer {
 
 .task-list-wrapper {
 	flex: 1;
-	margin: 0 20px 20px;
+	margin: 0 50px 20px;
 }
 
 .list-title {
@@ -140,6 +140,7 @@ footer {
 	display: inline-block;
 	padding: 10px 15px;
 	background: var(--primary);
+	color: var(--tertiary);
 	font-size: 2.2rem;
 	border-radius: 12px;
 	position: relative;
